@@ -2,7 +2,7 @@
 alert("This is a basic arithmetic calculator, press OK to continue")
 
 var number1 = parseFloat(prompt("Enter the first number: "))
-var operator = prompt("Operator: ")
+var operator = prompt("Enter the operator sign (+, -, /, *): ")
 var number2 = parseFloat(prompt("Enter the second number: "))
 
 let a = number1 + number2
