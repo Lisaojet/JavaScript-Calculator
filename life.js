@@ -10,20 +10,13 @@ let b = number1 - number2
 let c = number1 * number2
 let e = number1 / number2
 
-if (operator == "+")
-{
+if (operator == "+"){
     alert("The answer is: "+a)
-} 
-    else if (operator == "-")
-{
+}else if (operator == "-"){
     alert("The answer is: "+b)
-} 
-    else if (operator == "*")
-{
+}else if (operator == "*"){
     alert("The answer is: "+c)
-} 
-    else if (operator == "/")
-{
+}else if (operator == "/"){
     alert("The answer is: "+e)
 }
 
